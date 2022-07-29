@@ -1,0 +1,36 @@
+body{
+    background-image: url(background3.jpg);
+}
+
+
+h1{
+    color: whitesmoke;
+    font-family: "Arial Black", Gadget, sans-serif;
+    font-size: 70px;
+    word-spacing: 2px;
+}
+
+
+p{
+    font-family: "Arial Black", Gadget, sans-serif;
+    color: whitesmoke;
+}
+
+.tele{
+    width: 80vw;
+}
+
+.wrap{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.img{
+    width: 25%;
+}
+
+.para{
+    display: flex;
+    align-items: center;
+}
